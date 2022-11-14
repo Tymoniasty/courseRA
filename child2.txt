@@ -1,1 +1,6 @@
-child2 testsecond line
+<<<<<<< HEAD
+child2 testsecond line
+=======
+child2 test
+second line
+>>>>>>> d589a1b4598de575407c1f57b7312cbee7fad81b
